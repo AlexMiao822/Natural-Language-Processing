@@ -1,1 +1,6 @@
+1. Automated Readability Index (ARI)
+
+ARI = 4.71 μw + 0.5 μs - 21.43
+Let μw to be the average number of letters per word, and μs to be the average number of words per sentence, in a given text
+
 
