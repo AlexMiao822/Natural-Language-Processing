@@ -1,1 +1,5 @@
+- chunkscore nltk
 http://www.nltk.org/api/nltk.chunk.html?highlight=chunkscore#nltk.chunk.util.ChunkScore
+
+- An article giving examples of using chunkscore.missed() and chunkscore.incorrect()
+http://nltk.sourceforge.net/doc/en/chunk.pdf
