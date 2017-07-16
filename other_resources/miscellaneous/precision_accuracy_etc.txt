@@ -1,0 +1,2 @@
+An article explaining the difference among IOB Accuracy, Precision, Recall, and F-Measure:
+https://stackoverflow.com/questions/17325554/iob-accuracy-on-nltk-named-entity-recognition
