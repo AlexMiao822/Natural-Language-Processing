@@ -1,0 +1,4 @@
+A collection of acronyms in NLP:
+
+
+- CFG: Context Free Grammar (nltk.CFG)
